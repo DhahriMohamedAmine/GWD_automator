@@ -6,6 +6,7 @@ h11==0.14.0
 idna==3.4
 keyboard==0.13.5
 outcome==1.2.0
+Pillow==9.3.0
 pyobjc==9.0.1
 pyobjc-core==9.0.1
 pyobjc-framework-Accessibility==9.0.1
